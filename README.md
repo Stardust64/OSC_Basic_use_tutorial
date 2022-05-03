@@ -1,14 +1,13 @@
-# OSC_Basic_use_tutorial
-
+# OSC_intro_tutorial
 
 ## Table of Contents
 <a href="#Documentation">Documentation</a></br>
+
 <a href="#Intro to using OSC">Intro to using OSC</a></br>
 <a href="#Logging in">Logging in</a></br>
 <a href="#Common Linux Commands">Common Linux Commands</a></br>
 <a href="#Making Job scripts">Making Job scripts</a></br>
 <a href="#Submitting jobs">Submitting jobs</a></br>
-</br>
 
 ## <a name="Documentation">Documentation</a>
 Emacs: https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html
@@ -110,3 +109,5 @@ squeue -u janedoe
 ```
 
 After the job is done running you can check the log to see if there were any errors (slurm-JOB_ID.out)
+
+

@@ -1,5 +1,5 @@
 # OSC_intro_tutorial
-
+Author: Kayla Barton 
 ## Table of Contents
 <a href="#Documentation">Documentation</a></br>
 
